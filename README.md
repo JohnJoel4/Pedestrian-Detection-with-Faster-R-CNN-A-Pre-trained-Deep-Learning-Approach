@@ -1,0 +1,2 @@
+# Pedestrian-Detection-with-Faster-R-CNN-A-Pre-trained-Deep-Learning-Approach
+This project uses a pre-trained Faster R-CNN model to detect pedestrians in video frames. It processes video using PyTorch and OpenCV, drawing bounding boxes around detected persons and saving the results. The model is pre-trained on the COCO dataset, and the project runs efficiently in Google Colab for real-time detection.
