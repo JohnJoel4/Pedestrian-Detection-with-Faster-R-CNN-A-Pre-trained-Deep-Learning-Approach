@@ -45,17 +45,23 @@ This project demonstrates how to use a pre-trained Faster R-CNN (Region-based Co
 **How to Run this Project in Your System:**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**1)** Clone the Repository
+**1) Clone the Repository:**
 
-**2)** Install Required Libraries: In your environment (e.g., Google Colab, local Python environment), install the necessary dependencies using: 
+**"git clone https://github.com/JohnJoel4/Pedestrian-Detection-with-Faster-R-CNN-A-Pre-trained-Deep-Learning-Approach.git"**
+
+**2) Install Required Libraries:** In your environment (e.g., Google Colab, local Python environment), install the necessary dependencies using: 
 
 **"pip install torch torchvision opencv-python matplotlib"**
 
-**3)** Upload Video: If using Colab, upload the video file to your environment.
+**3) Upload Video:** If running locally, upload your Test video file in the project directory. 
 
-**4)** Run the Notebook: Open the notebook file (Faster R-CNN: Pedestrian Detection in Video) and run each cell sequentially. The model will process the video frames, detect pedestrians, and save the processed frames with bounding boxes.
+(Download the test video here: https://motchallenge.net/vis/PETS09-S2L1 ) 
 
-**5)** View or Download Output: The processed frames will be displayed within the notebook and saved as image files (e.g., frame_1.jpg). You can download them directly if using Colab
+(Or download directly from my repository: https://github.com/JohnJoel4/Pedestrian-Detection-with-Faster-R-CNN-A-Pre-trained-Deep-Learning-Approach/raw/main/PETS09-S2L1-raw.webm ) 
+
+**4) Run the Notebook:** Open the notebook file (Faster R-CNN: Pedestrian Detection in Video) and run each cell sequentially. 
+
+**5) View or Download Output:** The processed frames will be displayed within the notebook and saved as image files.
 
 **Prerequisites:**
 
@@ -64,8 +70,24 @@ This project demonstrates how to use a pre-trained Faster R-CNN (Region-based Co
 **2)** A video file to be processed (preferably uploaded to the same directory or environment).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**How to Run the Project on Google Colab:**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Screenshots**
+**1. Open the Notebook :**  Access the Google Collab notebook directly from the below link: 
+
+https://colab.research.google.com/github/JohnJoel4/Pedestrian-Detection-with-Faster-R-CNN-A-Pre-trained-Deep-Learning-Approach/blob/main/Pedestrian_Detection_with_Faster_R_CNN_A_Pre_trained_Deep_Learning_Approach.ipynb
+
+**2. Upload Video :** Download the video to upload in your Google Colab notebook by clicking this link:
+
+https://github.com/JohnJoel4/Pedestrian-Detection-with-Faster-R-CNN-A-Pre-trained-Deep-Learning-Approach/raw/main/PETS09-S2L1-raw.webm
+
+**3. Run the Notebook:** Open the Colab notebook and run each cell to process the video frames 
+
+**4. View Output:** The processed frames with detected pedestrians will be displayed in the notebook and saved as image files.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Expected Result Screenshots:**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Example of Pedestrian Detection:**
