@@ -1,4 +1,4 @@
-# Pedestrian-Detection-with-Faster-R-CNN-A-Pre-trained-Deep-Learning-Approach
+# Pedestrian Detection with Faster R CNN A Pre-trained Deep Learning Approach
 
 
 **Overview of the Project**
